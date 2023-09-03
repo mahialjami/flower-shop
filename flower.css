@@ -61,10 +61,24 @@
   text-align: center;
 }
 .deal {
-  background-image: url("");
+  background-image: url("Flower Asset/Rectangle\ 9.png");
+  text-align: center;
+  padding: 140px;
+  margin: 80px;
 }
 
 input {
   width: 280px;
   height: 40px;
+}
+
+.finish {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 140px;
+}
+
+.colour {
+  color: crimson;
 }
